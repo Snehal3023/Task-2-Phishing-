@@ -45,5 +45,7 @@ In this sample email spelling or grammar errors not found.
 
 ### Summary
 This email is a phishing attempt. 
+
 It attempts to steal user credentials through fear tactics, spoofed sender, and a fake link designed to look like a PayPal login page.
+
 It fails basic authenticity checks (SPF, DKIM, DMARC).
