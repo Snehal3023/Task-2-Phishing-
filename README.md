@@ -1,5 +1,5 @@
 # Task-2-Phishing-
-## Analyze a Phishing Email Sample
+## 1. Analyze a Phishing Email Sample
 ### Sample phishing email
 <br>
 
@@ -17,10 +17,14 @@
 ![result1](https://github.com/user-attachments/assets/d5ab72c3-72e0-41f3-96a4-f7b362f097be)
 <br>
 
-#### The spoofed sender email address was identified using the analysis tool.
+### Report of phishing email analyzer generated
+https://github.com/Snehal3023/Task-2-Phishing-/blob/main/report-7fb6309a.txt
+
+
+#### 2. The spoofed sender email address was identified using the analysis tool.
 support@paypalsecure-alert.com
 
-#### The email headers for discrepancies using Google Header Analyzer is
+#### 3. The email headers for discrepancies using Google Header Analyzer is
 <br>
 SPF: fail with IP Unknown!
 
@@ -28,22 +32,22 @@ DKIM: None
 
 DMARC: Fail
 
-#### Suspicious links or attachments 
-"Confirm Your Information"
+#### 4. Suspicious links or attachments 
+Attachment: "Confirm Your Information"
 
-#### The threatening language in the email body is 
+#### 5. The threatening language in the email body is 
 
 "Your PalPay account is limited. You have 24 hours to solve the problem or your account will be permanetly disabled."
 
+#### 6. Mismatch is Found
 Real URL: http://paypal-verification-alert123.com
 
 Domain Name: http://paypalsecure-alert.com
 
-#### Mismatch is Found
 
-In this sample email spelling or grammar errors not found.
+#### 7. In this sample email spelling or grammar errors not found.
 
-### Summary
+### 8. Summary
 This email is a phishing attempt. 
 
 It attempts to steal user credentials through fear tactics, spoofed sender, and a fake link designed to look like a PayPal login page.
