@@ -17,10 +17,10 @@
 ![result1](https://github.com/user-attachments/assets/d5ab72c3-72e0-41f3-96a4-f7b362f097be)
 <br>
 
-### The spoofed sender email address was identified using the analysis tool.
+#### The spoofed sender email address was identified using the analysis tool.
 support@paypalsecure-alert.com
 
-### The email headers for discrepancies using Google Header Analyzer is
+#### The email headers for discrepancies using Google Header Analyzer is
 <br>
 SPF: fail with IP Unknown!
 
@@ -28,10 +28,10 @@ DKIM: None
 
 DMARC: Fail
 
-### Suspicious links or attachments 
+#### Suspicious links or attachments 
 "Confirm Your Information"
 
-### The threatening language in the email body is 
+#### The threatening language in the email body is 
 
 "Your PalPay account is limited. You have 24 hours to solve the problem or your account will be permanetly disabled."
 
