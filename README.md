@@ -29,9 +29,19 @@ DKIM: None
 DMARC: Fail
 
 ### Suspicious links or attachments 
-Confirm Your Information
+"Confirm Your Information"
 
 ### The threatening language in the email body is 
 
-"Your PalPay 
+"Your PalPay account is limited. You have 24 hours to solve the problem or your account will be permanetly disabled."
 
+Real URL: http://paypal-verification-alert123.com
+Domain Name in paypalsecure-alert.com
+### Mismatch is Found
+
+In this sample email spelling or grammar errors not found.
+
+### Summary
+This email is a phishing attempt. 
+It attempts to steal user credentials through fear tactics, spoofed sender, and a fake link designed to look like a PayPal login page.
+It fails basic authenticity checks (SPF, DKIM, DMARC).
