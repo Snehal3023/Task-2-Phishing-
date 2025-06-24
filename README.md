@@ -20,7 +20,7 @@
 ### The spoofed sender email address was identified using the analysis tool.
 support@paypalsecure-alert.com
 
-### the email headers for discrepancies using Google Header Analyzer is
+### The email headers for discrepancies using Google Header Analyzer is
 <br>
 SPF: fail with IP Unknown!
 
@@ -31,7 +31,7 @@ DMARC: Fail
 ### Suspicious links or attachments 
 Confirm Your Information
 
-### THe threatening language in the email body is 
+### The threatening language in the email body is 
 
-"
+"Your PalPay 
 
