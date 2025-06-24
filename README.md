@@ -36,8 +36,10 @@ DMARC: Fail
 "Your PalPay account is limited. You have 24 hours to solve the problem or your account will be permanetly disabled."
 
 Real URL: http://paypal-verification-alert123.com
-Domain Name in paypalsecure-alert.com
-### Mismatch is Found
+
+Domain Name: http://paypalsecure-alert.com
+
+#### Mismatch is Found
 
 In this sample email spelling or grammar errors not found.
 
