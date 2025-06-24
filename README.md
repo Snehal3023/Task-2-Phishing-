@@ -1,2 +1,37 @@
 # Task-2-Phishing-
-Analyze a Phishing Email Sample
+## Analyze a Phishing Email Sample
+### Sample phishing email
+<br>
+
+![image](https://github.com/user-attachments/assets/327d4be8-09e8-4e45-912b-87a923eb26a5)
+
+<br>
+
+### Analyze Header
+![image](https://github.com/user-attachments/assets/97ef362b-75df-428a-8707-f20b1a4418d3)
+
+### After analyzing the header information, it was found that the email contains phishing indicators.
+![Result](https://github.com/user-attachments/assets/40f40469-6899-4191-871e-8baaf8939f6a)
+
+### By using another tool 
+![result1](https://github.com/user-attachments/assets/d5ab72c3-72e0-41f3-96a4-f7b362f097be)
+<br>
+
+### The spoofed sender email address was identified using the analysis tool.
+support@paypalsecure-alert.com
+
+### the email headers for discrepancies using Google Header Analyzer is
+<br>
+SPF: fail with IP Unknown!
+
+DKIM: None
+
+DMARC: Fail
+
+### Suspicious links or attachments 
+Confirm Your Information
+
+### THe threatening language in the email body is 
+
+"
+
